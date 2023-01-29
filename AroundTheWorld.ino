@@ -52,14 +52,16 @@ void loop() {
   //randomFlag(10000);
   
   armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
-  armenia(10000);
+  bangladesh(10000);
+  chad(10000);
+  estonia(10000);
+  gabon(10000);
+  lithuania(10000);
+  netherlands(10000);
+  peru(10000);
+  sierraLeone(10000);
+  thailand(10000);
+
   
 }
 
